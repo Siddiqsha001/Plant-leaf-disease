@@ -101,4 +101,3 @@ cv2.imshow(h,img)
 
 print(h)
 '''
-C:\Users\siddi\OneDrive\Documents\Certificates\Plant-Leaf-Disease-Prediction-main\Plant-Leaf-Disease-Prediction-main\Example.py
